@@ -1,10 +1,9 @@
 "AddonInfo"
 {
-	"name"				"Media Player"
-	"version"			"1.0.0"
-	"author_name"		"Samuel Maddock"
-	"author_email"		"sam@samuelmaddock.com"
-	"author_url"		"http://samuelmaddock.com"
-	"info"				"http://github.com/samuelmaddock/gm-mediaplayer"
+	"name"				"Net Browser"
+	"version"			"1.0"
+	"author_name"		"hattolo"
+	"author_url"		"https://hatto.neocities.org"
+	"info"				"https://github.com/hatmanthehat/gm-netbrowser"
 	"override"			"0"
 }
